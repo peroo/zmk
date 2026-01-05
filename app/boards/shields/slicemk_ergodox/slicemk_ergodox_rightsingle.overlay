@@ -1,1 +1,5 @@
 #include "slicemk_ergodox_right.dtsi"
+
+&default_transform {
+    col-offset = <7>;
+};
